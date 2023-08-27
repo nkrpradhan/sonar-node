@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="E:\Nodejs\sonar-node\src\tests\index.test.js">
+    <testCase name="Add function functionality check add function return" duration="7"/>
+  </file>
+</testExecutions>

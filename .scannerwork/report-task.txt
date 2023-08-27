@@ -1,0 +1,6 @@
+projectKey=express-app-code-coverage
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=express-app-code-coverage
+ceTaskId=AYo2oxP2xMOWdUDFcCCJ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYo2oxP2xMOWdUDFcCCJ
